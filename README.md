@@ -1,6 +1,8 @@
-### Hey, I'm Jun Heen! 👋
+### <div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=700&size=22&duration=3000&pause=100000&color=8B9DB9&vCenter=true&width=420&height=40&lines=Hey%2C+I'm+Jun+Heen!" alt="Hi, I'm JunHeen!" />
+</div>
 
-`CS Graduate` · `AI & Software` · `Curious Builder`
+`CS Undergrad` · `AI & Software` · `Curious Builder`
 
 I enjoy turning ideas into working software, exploring new technologies, and making the little details feel right. ✨
 
