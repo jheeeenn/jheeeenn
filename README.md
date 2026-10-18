@@ -10,4 +10,4 @@ I enjoy turning ideas into working software, exploring new technologies, and mak
 ![Software Development](https://img.shields.io/badge/Software%20Development-709A8C?style=flat-square)
 ![Always Exploring](https://img.shields.io/badge/Always%20Exploring-C18D70?style=flat-square)
 
-[LinkedIn](https://www.linkedin.com/in/jun-heen-yap-596980374/) · [JobStreet](https://my.jobstreet.com/profiles/junheen-yap-rbj9m7gmdh) · [Instagram](https://www.instagram.com/junheen_04?obrf=MWQ0eTR3MXlhMzRrZw%3D%3D) · Portfolio — in the works ;) 🚧
+[LinkedIn](https://www.linkedin.com/in/jun-heen-yap-596980374/) · [Instagram](https://www.instagram.com/junheen_04?obrf=MWQ0eTR3MXlhMzRrZw%3D%3D) · [Hugging Face](https://huggingface.co/JXuannn) · [Portfolio](https://github.com/jheeeenn) — in the works ;) 🚧
