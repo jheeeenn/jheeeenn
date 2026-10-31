@@ -12,4 +12,4 @@ I enjoy turning ideas into working software, exploring new technologies, and mak
 
 Feel free to find me here! | 欢迎来找我哦～ 🤭
 
-[About Me](jheen.pages.dev)  ·  [LinkedIn](https://www.linkedin.com/in/jun-heen-yap-596980374/)  ·  [Instagram](https://www.instagram.com/junheen_04?obrf=MWQ0eTR3MXlhMzRrZw%3D%3D)  ·  [Hugging Face](https://huggingface.co/JXuannn)
+[About Me](https://jheen.pages.dev/)  ·  [LinkedIn](https://www.linkedin.com/in/jun-heen-yap-596980374/)  ·  [Instagram](https://www.instagram.com/junheen_04?obrf=MWQ0eTR3MXlhMzRrZw%3D%3D)  ·  [Hugging Face](https://huggingface.co/JXuannn)
