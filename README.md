@@ -10,6 +10,5 @@ I enjoy turning ideas into working software, exploring new technologies, and mak
 ![Software Development](https://img.shields.io/badge/Software%20Development-709A8C?style=flat-square)
 ![Always Exploring](https://img.shields.io/badge/Always%20Exploring-C18D70?style=flat-square)
 
-Feel free to find me here! | 欢迎欢迎～ 🤭
 
 [About Me](https://jheen.pages.dev/)  ·  [Hugging Face](https://huggingface.co/JXuannn)
